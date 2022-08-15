@@ -1,1 +1,1 @@
-# RockPaperScissorsLizardSpock
+ Rock Paper Scissors Lizard Spock is an expansion of the game Rock, Paper, Scissors. It was created by Sam Kass, but it was popularized in an episode of the Big Bang Theory called The Lizard-Spock expansion
